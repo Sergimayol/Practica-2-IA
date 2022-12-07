@@ -1,4 +1,4 @@
-# Práctica Bloque 2 - Inteligencia Artificial 
+# Práctica Bloque 2 - Inteligencia Artificial
 
 ## Desarrollo
 
@@ -6,4 +6,10 @@
 
 ```bash
 pipenv install -d
+```
+
+### Activar entorno virtual
+
+```bash
+pipenv shell
 ```
