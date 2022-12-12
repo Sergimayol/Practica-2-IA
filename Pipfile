@@ -10,6 +10,7 @@ scikit-learn = "*"
 matplotlib = "*"
 pandas = "*"
 ipykernel = "*"
+Jinja2 = "*"
 
 [dev-packages]
 black = "==22.10.0"
